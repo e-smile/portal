@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="ct-ux-id-portal-view-svglistview">
+    <h2 id="ux-id-application-item" data-text-short="portal-view-svgListView">Application Item</h2>
+    <p>One item representing an installed application. Double-click to launch the application or: </p>
+    <ol class="marker">
+        <li style="top: 48%;left: 91%;"/>
+        <li style="top: 60%;left: 91%;"/>
+    </ol>
+    <img src="$resources/images/portal-view-focus.png" class="img-thumbnail" alt="focus on one application item"/>
+    <ol class="legend small">
+        <li>Click on <span>
+                <em class="fa fa-info"/>
+            </span> for more info on the application.</li>
+        <li>Click on <span>
+                <em class="fa fa-arrow-right"/>
+            </span> to launch on a new tab.</li>
+    </ol>
+</div>

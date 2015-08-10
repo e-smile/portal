@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" viewBox="0 0 100 100" height="100">
+    <style>
+    .app-icon-hexagon {
+      display: none;
+    }
+    .app-icon {
+      display: none;
+    }
+  </style>
+    <g class="app-icon-circle">
+        <path xmlns:xi="http://www.w3.org/2001/XInclude" d="m50.0028,.2755c-27.4143,0-49.7052,22.3185-49.7052,49.7329 0,27.4144 22.2908,49.7052 49.7052,49.7052 27.4144,0 49.7052-22.2908 49.7052-49.7052 0-27.4143-22.2908-49.7329-49.7052-49.7329zm0,7.0097c23.6262,0 42.6955,19.097 42.6955,42.7232 0,23.6262-19.0693,42.6955-42.6955,42.6955-23.6262,0-42.6955-19.0693-42.6955-42.6955 0-23.6262 19.0693-42.7232 42.6955-42.7232z"/>
+        <g transform="matrix(0.7504722,0,0,0.7504722,12.476827,12.47664)" xid="app-icon-g">
+            <g transform="translate(.12006 -5.33658)">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(39.87994 82.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 46.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(79.87994 46.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 82.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(19.87994 46.33658)"/>
+            </g>
+        </g>
+    </g>
+    <g class="app-icon-hexagon">
+        <path xmlns:xi="http://www.w3.org/2001/XInclude" d="m74.5688,6.7888a4.0004,4.0004 0 0,0 -1.7117-.3817l-45.7072,.0404a4.0004,4.0004 0 0,0 -3.458,1.9611l-22.8718,39.6049a4.0004,4.0004 0 0,0 .0176,4.0054l22.8354,39.5645a4.0004,4.0004 0 0,0 3.4961,2.0077l45.6866-.0038a4.0004,4.0004 0 0,0 3.4786-1.9978l22.8351-39.6254a4.0004,4.0004 0 0,0 .019-3.9849l-22.8721-39.585a4.0004,4.0004 0 0,0 -1.7479-1.6055zm-4.0258,7.6122 20.5418,35.5831-20.5195,35.5798-41.0818,.0333-20.5418-35.5831 20.4829-35.6003l41.1184-.0128z"/>
+        <g transform="matrix(0.5998139,0,0,0.5998139,20.010006,20.009705)" xid="app-icon-g">
+            <g transform="translate(.12006 -5.33658)">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(39.87994 82.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 28.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 46.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(79.87994 46.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 64.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 82.33658)"/>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(19.87994 46.33658)"/>
+            </g>
+        </g>
+    </g>
+    <g class="app-icon" xid="app-icon">
+        <defs>
+            <path id="app-portal-hexagon" d="m0-10l8.6603,5v10l-8.6603,5-8.6603-5v-10z"/>
+        </defs>
+        <g transform="translate(.12006 -5.33658)">
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(39.87994 82.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 28.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 64.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(29.87994 28.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 28.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 46.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(79.87994 46.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(69.87994 64.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(49.87994 64.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(59.87994 82.33658)"/>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" xlink:href="#app-portal-hexagon" transform="translate(19.87994 46.33658)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="ct-ux-id-portal">
+    <h2 id="ux-id-portal" data-text-short="Portal">Portal</h2>
+    <div>
+        <p>Main entry point for e-smile applications. </p>
+        <p>The <strong>Portal</strong> view displays the list of installed and locally available applications. Double-click to launch the application, or access to more information by single click. </p>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <figure>
+                <img itemprop="image" src="$resources/images/Portal.png" alt="" class="img-responsive img-rounded"/>
+                <figcaption>Portal : click to launch other e-smile applications</figcaption>
+            </figure>
+        </div>
+    </div>
+</div>

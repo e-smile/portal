@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div data-template-path="/../common/data/ux-help/{app.lan}/interactive-help.xml" data-template="tplu:include"/>
+</div>

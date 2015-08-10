@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="ct-ux-id-portal-application">
+    <h2 id="ux-id-portal-application" data-text-short="Portal Application">Portal Application</h2>
+    <div>
+        <p>Welcome to e-smile Portal, the main entry-point to other installed e-smile applications. It consists of 3 main components (<em>Portal</em>, <em>Profile</em> and <em>About e-smile</em>) - activated by clicking on the related tabs.</p>
+        <div class="row">
+            <ul class="list-group col-md-5 col-md-offset-1">
+                <li class="list-group-item">
+                    <a href="#ux-id-administer-applications">
+                        <i class="fa fa-cubes"/> portal</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="#ux-id-portal-profile">
+                        <i class="fa fa-edit"/> profile</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="#ux-id-about-e-smile">
+                        <i class="fa fa-copyright"/> about e-smile</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div data-template-path="~/portal-view.xml" data-template="tplu:include"/>
+    <div data-template-path="~/portal-profile.xml" data-template="tplu:include"/>
+    <div data-template-path="/../common/data/ux-help/{app.lan}/about-esmile-intro.xml" data-template="tplu:include"/>
+    <div data-template-path="/../common/data/ux-help/{app.lan}/how-to-use-help.xml" data-template="tplu:include"/>
+</div>

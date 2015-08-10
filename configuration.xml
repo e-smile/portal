@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <js>
+        <appClass>E.apps.Portal</appClass>
+    </js>
+    <manifest>
+        <appKey>tempKey</appKey>
+    </manifest>
+    <state>
+        <dataModelDate>2015-08-05T08:40:48.381+02:00</dataModelDate>
+        <appModelDate>2015-08-05T08:40:53.764+02:00</appModelDate>
+        <dateFormat>yyyy-MM-dd</dateFormat>
+        <ms>WD-foodSecurity</ms>
+        <!-- <mode>production</mode> -->
+        <mode>dev</mode>
+        <lang>en</lang>
+    </state>
+</configuration>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Portal Application for e-smile. Main entry point for launching other e-smile applications.</description>
+    <author>Christophe Geiser</author>
+    <website>www.e-smile.org/portal</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>esmile/portal</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>pre-install.xql</finish>
+    <deployed>2015-07-24T17:20:35.627+02:00</deployed>
+    <github>https://github.com/e-smile/portal</github>
+    <tags/>
+</meta>

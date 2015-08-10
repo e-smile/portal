@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <h2>Portal App</h2>
+    <p>Main entry point for e-smile applications. </p>
+    <p>The <strong>Portal</strong> view displays the list of installed and locally available applications. Double-click to launch the application, or access to more information by single click. </p>
+    <figure>
+        <img itemprop="image" src="$resources/images/Portal.png" alt="" class="img-responsive img-rounded"/>
+        <figcaption>Screen capture of the <strong>Portal App</strong>
+        </figcaption>
+    </figure>
+</div>
