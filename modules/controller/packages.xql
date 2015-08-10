@@ -12,7 +12,8 @@ declare namespace repo="http://exist-db.org/xquery/repo";
 (:declare option output:method "json";:)
 (:declare option output:media-type "application/json";:)
 
-let $type := request:get-parameter("type", "all")
+(:let $type := request:get-parameter("type", "local"):)
+let $type := "local"
 let $format := request:get-parameter("format", "esmileApp")
 
 (:return <div>Je;p</div>:) 

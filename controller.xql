@@ -31,6 +31,7 @@ else if ($exist:path eq "/") then
             <forward  url="{$exist:controller}/modules/controller/state.xql" >
                 {$login("org.esmile.login", (), false())}
             </forward>
+            <cache-control cache="no" />
     </dispatch>
 
 (: Resource paths starting with $controller are loaded from the controller :)
@@ -39,6 +40,7 @@ else if (contains($exist:path, "/$controller/")) then
         <forward  url="{$exist:controller}/modules/controller/{$exist:resource}.xql" >
             <set-header name="Cache-Control" value="max-age=3600, must-revalidate"/>
         </forward>
+        <cache-control cache="no" />
     </dispatch>
 
 (: Resource paths starting with $commonc are loaded from the common app controller :)
