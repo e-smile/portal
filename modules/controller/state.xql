@@ -28,7 +28,7 @@ try {
 
 
     let $check-init := if(empty($state)) (:if state is empty, we need to initiate it:)
-        then (state:init($app,(config:app-state(),  $config:expath-descriptor))) 
+        then (state:init($app,( $config:expath-descriptor, config:app-state() ))) 
         else ($state)
     let $state := if($method = "POST") 
         then (state:set($app, mapxt:request-to-map())) 

@@ -11,5 +11,6 @@ let $content := util:binary-to-string(request:get-data())
 let $map := config:manifest-map()
 
 return
+(:    $content:)
     string-join(tplu:expand-template(<root>{$content}</root>, $map)) 
   

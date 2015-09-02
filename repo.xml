@@ -10,7 +10,5 @@
     <target>esmile/portal</target>
     <prepare>pre-install.xql</prepare>
     <finish>pre-install.xql</finish>
-    <deployed>2015-07-24T17:20:35.627+02:00</deployed>
-    <github>https://github.com/e-smile/portal</github>
-    <tags/>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="cmoila1" user="admin" group="dba" mode="rw-rw-r--"/>
 </meta>
